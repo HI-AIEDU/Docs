@@ -2,7 +2,7 @@ const data1 = [
     {
         "data": {
             "id": "0",
-            "url": "https://github.com/ESG-EDU/Docs",
+            "url": "https://github.com/HI-AIEDU",
             "label": "AI Agent 개발자"
         }
     },{
@@ -104,7 +104,7 @@ const data1 = [
     },{
         "data": {
             "id": "1-1-1",
-            "url": "https://github.com/ESG-EDU/Docs/tree/main/python",
+            "url": "https://github.com/HI-AIEDU/Docs/blob/main/files/python",
             "label": "파이썬"
         }
     },{
@@ -116,7 +116,7 @@ const data1 = [
     },{
         "data": {
             "id": "1-1-2",
-            "url": "https://github.com/ESG-EDU/Docs/tree/main/javascript",
+            "url": "https://github.com/HI-AIEDU/Docs/blob/main/files/javascript",
             "label": "자바스크립트"
         }
     },{
@@ -128,13 +128,13 @@ const data1 = [
     },{
         "data": {
             "id": "1-2-1",
-            "url": "https://github.com/ESG-EDU/Docs/tree/main/html",
+            "url": "https://github.com/HI-AIEDU/Docs/blob/main/files/html",
             "label": "HTML"
         }
     },{
         "data": {
             "id": "1-2-2",
-            "url": "https://github.com/ESG-EDU/Docs/tree/main/css",
+            "url": "https://github.com/HI-AIEDU/Docs/blob/main/files/css",
             "label": "CSS"
         }
     },{
@@ -164,7 +164,7 @@ const data1 = [
     },{
         "data": {
             "id": "2-3",
-            "url": "https://github.com/ESG-EDU/Docs/tree/main/database",
+            "url": "https://github.com/HI-AIEDU/Docs/blob/main/files/database",
             "label": "데이터베이스"
         }
     },{
@@ -512,31 +512,31 @@ const data1 = [
     },{
         "data": {
             "id": "5-1-1",
-            "url": "https://github.com/ESG-EDU/Docs/tree/main/aws",
+            "url": "https://github.com/HI-AIEDU/Docs/blob/main/files/aws",
             "label": "AWS EC2 및 S3"
         }
     },{
         "data": {
             "id": "5-1-2",
-            "url": "https://github.com/ESG-EDU/Docs/tree/main/docker",
+            "url": "https://github.com/HI-AIEDU/Docs/blob/main/files/docker",
             "label": "Docker"
         }
     },{
         "data": {
             "id": "5-2-1",
-            "url": "https://github.com/ESG-EDU/Docs/tree/main/git",
+            "url": "https://github.com/HI-AIEDU/Docs/blob/main/files/git",
             "label": "Github Actions"
         }
     },{
         "data": {
             "id": "5-2-2",
-            "url": "https://github.com/ESG-EDU/Docs/tree/main/jenkins",
+            "url": "https://github.com/HI-AIEDU/Docs/blob/main/files/jenkins",
             "label": "Jenkins"
         }
     },{
         "data": {
             "id": "5-2-3",
-            "url": "https://github.com/ESG-EDU/Docs/tree/main/kubernetes",
+            "url": "https://github.com/HI-AIEDU/Docs/blob/main/files/kubernetes",
             "label": "Kubernetes"
         }
     },{
@@ -554,7 +554,7 @@ const data1 = [
     },{
         "data": {
             "id": "5-3-3",
-            "url": "https://github.com/ESG-EDU/Docs/tree/main/elastic",
+            "url": "https://github.com/HI-AIEDU/Docs/blob/main/files/elastic",
             "label": "Elasticsearch 및 Kibana"
         }
     },{
@@ -650,13 +650,13 @@ const data1 = [
     },{
         "data": {
             "id": "6-1-2",
-            "url": "https://github.com/ESG-EDU/Docs/tree/main/kafka",
+            "url": "https://github.com/HI-AIEDU/Docs/blob/main/files/kafka",
             "label": "Apache Kafka"
         }
     },{
         "data": {
             "id": "6-3-1",
-            "url": "https://github.com/ESG-EDU/Docs/tree/main/msa",
+            "url": "https://github.com/HI-AIEDU/Docs/blob/main/files/msa",
             "label": "MSA"
         }
     },{
